@@ -1,0 +1,20 @@
+[profile.release]
+panic = 'unwind'
+
+[workspace]
+members = [
+	'node',
+	'primitives',
+	'runtime',
+	'pallets/did'
+]
+
+[patch.crates-io]
+frame-support = { git = 'https://github.com/paritytech/substrate', branch = 'master' }
+frame-system = { git = 'https://github.com/paritytech/substrate', branch = 'master' } 
+pallet-balances = { git = 'https://github.com/paritytech/substrate', branch = 'master' } 
+sp-arithmetic = { git = 'https://github.com/paritytech/substrate', branch = 'master' } 
+sp-core = { git = 'https://github.com/paritytech/substrate', branch = 'master' } 
+sp-io = { git = 'https://github.com/paritytech/substrate', branch = 'master' } 
+sp-runtime = { git = 'https://github.com/paritytech/substrate', branch = 'master' } 
+sp-std = { git = 'https://github.com/paritytech/substrate', branch = 'master' }
