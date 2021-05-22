@@ -1,6 +1,0 @@
-[submodule "blockchain"]
-	path = blockchain
-	url = https://github.com/ArtreeTechnologies/frontier
-[submodule "test/src/zksync"]
-	path = test/src/zksync
-	url = https://github.com/ArtreeTechnologies/zksync
