@@ -5,6 +5,9 @@
 
 ## References
 
+### Polkadot Substrate Templates
+- https://github.com/substrate-developer-hub/substrate-node-template
+
 ### Polkadot Scaling 
 - https://github.com/itering/scale.go
 
