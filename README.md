@@ -1,5 +1,5 @@
-# PairUps
-zkRollups on Polkadot
+# AdverbApps
+- Anonymous Authentication Advertisig Apps on Substrate Networks
 
 ## Polkadot Scaling 
 - https://github.com/itering/scale.go
