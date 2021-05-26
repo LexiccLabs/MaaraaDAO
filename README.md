@@ -1,7 +1,9 @@
-# AdverbApps
-- Anonymous Authentication Advertisig Apps on Substrate Networks
+# LirDAO
+- LirDAO is a collective of Anonymous Authentication Advertisig Apps on Substrate Networks
 
-## Design
+## Technology
+- Integration of MixNet Implementation in Rust ( https://github.com/nvotes/braid )
+- Integration of ZKP Implementation on Substrate ( https://github.com/PlasmNetwork/ZKRollups )
 
 ## References
 
