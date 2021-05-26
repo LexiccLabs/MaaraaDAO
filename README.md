@@ -3,6 +3,7 @@
 
 ## Etymology
 - Lir is the celitc god of ancient oceans (https://en.wikipedia.org/wiki/Lir)
+- Children of Lir ( https://www.transceltic.com/manx/manann-n-mac-lir-son-of-sea-celtic-sea-god-and-protector-of-mannin )
 
 ## Technology
 - Integration of MixNet Implementation in Rust ( https://github.com/nvotes/braid )
