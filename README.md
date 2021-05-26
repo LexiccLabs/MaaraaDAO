@@ -1,6 +1,9 @@
 # LirDAO
 - LirDAO is a collective of Anonymous Authentication Advertisig Apps on Substrate Networks
 
+## Etymology
+- Lir is the celitc god of ancient oceans (https://en.wikipedia.org/wiki/Lir)
+
 ## Technology
 - Integration of MixNet Implementation in Rust ( https://github.com/nvotes/braid )
 - Integration of ZKP Implementation on Substrate ( https://github.com/PlasmNetwork/ZKRollups )
