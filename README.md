@@ -1,5 +1,5 @@
 # MaaraaWeb
-- MaaraaDAO is a collective of Anonymous Authentication Advertisig Apps on Substrate Networks
+- MaaraaDAO is a collective of Anonymous Authentication based Advertisig App Engine ported to Substrate Systems
 
 ## Primordial
 - Maaraa is the dravidian god of ancient species and spectres ( https://en.wikipedia.org/wiki/M%C4%81ra )
@@ -11,7 +11,10 @@
 - Content is accessible by multiple applications, every device is connected to the web, the services can be used everywhere.
 
 ## Problem Statement
-- All the existing protocols and services on today’s internet, in Web3 are built on permissionless blockchains with open protocols and open standards. 
+- All the existing protocols and services on today’s internet are fragmented and fragile. The advertisements are enmeshed in isolated zones. 
+
+## Perspective
+- in Web3 are built on permissionless blockchains with open protocols and open standards. 
 - It allow for a much greater level of freedom, decentralization, and democracy for individual users, content creators, and projects.
 
 ## Technology
