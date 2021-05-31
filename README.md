@@ -1,9 +1,18 @@
-# LirDAO
-- LirDAO is a collective of Anonymous Authentication Advertisig Apps on Substrate Networks
+# MaaraaWeb
+- MaaraaDAO is a collective of Anonymous Authentication Advertisig Apps on Substrate Networks
 
-## Etymology
-- Lir is the celitc god of ancient oceans (https://en.wikipedia.org/wiki/Lir)
-- Children of Lir ( https://www.transceltic.com/manx/manann-n-mac-lir-son-of-sea-celtic-sea-god-and-protector-of-mannin )
+## Primordial
+- Maaraa is the dravidian god of ancient species and spectres ( https://en.wikipedia.org/wiki/M%C4%81ra )
+
+## Pragma 
+- MaaraaWeb is an early ensemble of Polkadot Prototypes for the modern manifestation of semantic web
+- The web 3.0 is also known as the “Semantic”,  thanks to semantic metadata for connectivity at large.
+- The Web 3.0 is also known as “The trend of democratizing the internet.”
+- Content is accessible by multiple applications, every device is connected to the web, the services can be used everywhere.
+
+## Problem Statement
+- All the existing protocols and services on today’s internet, in Web3 are built on permissionless blockchains with open protocols and open standards. 
+- It allow for a much greater level of freedom, decentralization, and democracy for individual users, content creators, and projects.
 
 ## Technology
 - Integration of MixNet Implementation in Rust ( https://github.com/nvotes/braid )
