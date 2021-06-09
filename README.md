@@ -13,6 +13,7 @@
 ## Technology
 - Integration of MixNet Implementation in Rust ( https://github.com/nvotes/braid )
 - Integration of ZKP Implementation on Substrate ( https://github.com/PlasmNetwork/ZKRollups )
+- Intergation of ERC20 - Substrate Bridge ( https://github.com/akropolisio/erc20-substrate-bridge )
 
 ## Inspiration
 - Maaraa is the dravidian god of ancient species and spectres ( https://en.wikipedia.org/wiki/M%C4%81ra )
