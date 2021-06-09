@@ -1,14 +1,7 @@
 # MaaraaWeb
 - MaaraaDAO is a collective of Anonymous Authentication based Advertisig App Engine ported to Substrate Systems
 
-## Primordial
-- Maaraa is the dravidian god of ancient species and spectres ( https://en.wikipedia.org/wiki/M%C4%81ra )
 
-## Pragma 
-- MaaraaWeb is an early ensemble of Polkadot Prototypes for the modern manifestation of semantic web
-- The web 3.0 is also known as the “Semantic”,  thanks to semantic metadata for connectivity at large.
-- The Web 3.0 is also known as “The trend of democratizing the internet.”
-- Content is accessible by multiple applications, every device is connected to the web, the services can be used everywhere.
 
 ## Problem Statement
 - All the existing protocols and services on today’s internet are fragmented and fragile. The advertisements are enmeshed in isolated zones. 
@@ -20,6 +13,29 @@
 ## Technology
 - Integration of MixNet Implementation in Rust ( https://github.com/nvotes/braid )
 - Integration of ZKP Implementation on Substrate ( https://github.com/PlasmNetwork/ZKRollups )
+
+## Inspiration
+- Maaraa is the dravidian god of ancient species and spectres ( https://en.wikipedia.org/wiki/M%C4%81ra )
+- The web 3.0 is also known as the “Semantic”,  thanks to semantic metadata for connectivity at large.
+- The Web 3.0 is also known as “The trend of democratizing the internet.”
+- Content is accessible by multiple applications, every device is connected to the web, the services can be used everywhere.
+
+## What it does
+- MaaraaWeb is an early ensemble of Polkadot Prototypes for the modern manifestation of semantic web
+
+
+## How we built it
+- Integration with Polkadot Substrate System
+- Integration with Rust based Mixer Networks
+
+## Challenges we ran into
+
+## Accomplishments that we're proud of
+
+## What we learned
+
+## What's next for MaaraDAO
+
 
 ## References
 
