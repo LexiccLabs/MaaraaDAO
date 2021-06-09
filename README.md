@@ -1,8 +1,6 @@
 # MaaraaWeb
 - MaaraaDAO is a collective of Anonymous Authentication based Advertisig App Engine ported to Substrate Systems
 
-
-
 ## Problem Statement
 - All the existing protocols and services on today’s internet are fragmented and fragile. The advertisements are enmeshed in isolated zones. 
 
@@ -23,7 +21,6 @@
 
 ## What it does
 - MaaraaWeb is an early ensemble of Polkadot Prototypes for the modern manifestation of semantic web
-
 
 ## How we built it
 - Integration with Polkadot Substrate System
