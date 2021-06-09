@@ -37,14 +37,9 @@
 
 ## References
 
-### Polkadot Substrate Templates
-- https://github.com/substrate-developer-hub/substrate-node-template
-
-### Polkadot Scaling 
-- https://github.com/itering/scale.go
-
-### Polkadot DID Resolver
-- https://github.com/lorena-ssi/did-resolver
+- Polkadot Substrate Templates ( https://github.com/substrate-developer-hub/substrate-node-template )
+- Polkadot Scaling ( https://github.com/itering/scale.go )
+- Polkadot DID Resolver ( https://github.com/lorena-ssi/did-resolver )
 
 ### Polkadot for Synethetic Neural Networks
 - https://github.com/opentensor/subtensor
