@@ -1,12 +1,13 @@
 # MaaraaWeb
-- MaaraaDAO is a collective of Anonymous Authentication based Advertisig App Engine ported to Substrate Systems
+- MaaraaDAO is an Anonymous Authentication System for Advertisement Platforms
 
 ## Problem Statement
-- All the existing protocols and services on today’s internet are fragmented and fragile. The advertisements are enmeshed in isolated zones. 
+- Current internet infrastructure for advertisements is not protecting privacy. 
+- Current internet infrastructure for advertisement is generating partial insights
 
 ## Perspective
-- in Web3 are built on permissionless blockchains with open protocols and open standards. 
-- It allow for a much greater level of freedom, decentralization, and democracy for individual users, content creators, and projects.
+- Web3 is built on permission-less blockchains with open protocols and open standards.
+- Web3 offers a greater level of freedom, decentralization, and democracy for netizens
 
 ## Technology
 - Integration of MixNet Implementation in Rust ( https://github.com/nvotes/braid )
